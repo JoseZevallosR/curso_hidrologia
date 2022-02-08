@@ -3,10 +3,6 @@ Codigos para mi curso de hidrologia
 
 
 
-	```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+``` python
+import numpy as np
 ```
