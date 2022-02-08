@@ -4,6 +4,7 @@
 # Contenido
 Este repositorio contiene aplicaciones basicas de hidrología en un curso regular de pregrado. Los temas incluidos son los siguientes:
 
+- [Sintaxis basicas de R](https://github.com/JoseZevallosR/curso_hidrologia/blob/main/code/Lenguaje%20R%20ejemplos%20b%C3%A1sicos.ipynb)
 - Tratamiento de información pluviométrica
 - Técnicas de interpolación
 - Curva Numero  
