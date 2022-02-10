@@ -9,6 +9,6 @@ Este repositorio contiene aplicaciones basicas de hidrología en un curso regula
 - Técnicas de interpolación
 - [Curva Numero](https://github.com/JoseZevallosR/curso_hidrologia/blob/main/code/Curva%20numero.ipynb)
 - [Curvas intensidad – duración – frecuencia](https://github.com/JoseZevallosR/curso_hidrologia/blob/main/code/Curva%20IDF%20para%20una%20sola%20estaci%C3%B3n.ipynb)
-- Gráficos con ggplot
+- [Gráficos con ggplot](https://github.com/JoseZevallosR/curso_hidrologia/blob/main/code/Gr%C3%A1ficos%20en%20ggplot.ipynb)
 - Manipulación de datos pisco
 - [Evapotranspiración](https://github.com/JoseZevallosR/curso_hidrologia/blob/main/code/ETP%20Peru.ipynb)
