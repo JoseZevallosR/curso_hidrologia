@@ -1,5 +1,6 @@
 ![alt text](img/Curso_de_Hidrología.png)
 
+![Visitor Count](https://profile-counter.glitch.me/{JoseZevallosR}/count.svg)
 
 # Contenido
 Este repositorio contiene aplicaciones basicas de hidrología en un curso regular de pregrado. Los temas incluidos son los siguientes:
