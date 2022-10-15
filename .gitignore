@@ -1,3 +1,6 @@
-data/
+data/CNN/
+data/PISCO/
+data/shp/
+data/Temperatura/
 data/Temperatura/mensual/tmax/Tmax_1981-11-01.tif
 *.tif
